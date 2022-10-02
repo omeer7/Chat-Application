@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520105812989",
+    "project_id": "chatapp-70835",
+    "storage_bucket": "chatapp-70835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520105812989:android:da7023527bfaf15c496f94",
+        "android_client_info": {
+          "package_name": "com.omerbartu.basicchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520105812989-estea6tksr3tumhkgs787bvp2a6800hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-baoHmkvXyeMfqAaWueyNdIc6AuOZ9AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520105812989-estea6tksr3tumhkgs787bvp2a6800hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
